@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,AAAC,CACD,GAAG,CAAE,0BAA0B,CAC/B,GAAG,CAAE,0BAA0B,CAC/B,GAAG,CAAE,0BAA0B,CAC/B,GAAG,CAAE,0BAA0B,CAC/B,GAAG,CAAE,0BAA0B,CAC/B,GAAG,CAAE,8BAA8B,CACnC,GAAG,CAAE,8BAA8B,CACnC,GAAG,CAAE,+BAA+B,CACtC",
+    "sources": [
+        "../myBlog/_vendor/ruby/3.1.0/gems/sassc-2.4.0/test/fixtures/paths.scss"
+    ],
+    "names": [],
+    "file": "paths.min.css"
+}

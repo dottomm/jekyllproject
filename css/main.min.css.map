@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,IAAI,AAAC,CACH,UAAU,CALM,IAAO,CAMvB,KAAK,CALK,IAAO,CAMjB,WAAW,CALF,aAAa,CAAC,kBAAkB,CAAC,UAAU,CAAC,SAAS,CAAC,KAAK,CAAC,UAAU,CAAC,mBAAmB,CAAC,gBAAgB,CAAC,iBAAiB,CAMvI",
+    "sources": [
+        "../myBlog/_vendor/ruby/3.1.0/gems/jekyll-4.2.2/lib/blank_template/_sass/main.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
