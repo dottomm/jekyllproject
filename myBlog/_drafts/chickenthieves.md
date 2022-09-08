@@ -1,7 +1,7 @@
 ---
 title: The Chicken Thieves
 layout: post
-tag: goth rock
+tag: punk rock
 categories: music
 ---
 
@@ -9,6 +9,7 @@ Petaluma's favorite poultry snatchers are back with a vinyl record!
 
 ## _Album is now for sale_
 
+![my gales photo](/assets/centerLogoWeb.png)
 
 ## Songs
 

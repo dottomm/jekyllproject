@@ -5,4 +5,4 @@ permalink: /gales/
 
 ---
 
-![My helpful screenshot](/assets/VomitGales.png) 
+![my gales photo](/assets/VomitGales.png){:width="70%"}
